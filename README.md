@@ -1,10 +1,10 @@
 # yogawithcece
 
-#### By _**{Benjamin Goad}**_
+#### By _**Benjamin Goad**_
 
-#### _{A static website for Celice Goad to be used with her personal yoga class}_
+#### _A static website for Celice Goad to be used with her personal yoga class_
 
 ## This Project Uses
-*_HTML_
-*_CSS_
-*_javascript_
+_HTML_
+_CSS_
+_javascript_
